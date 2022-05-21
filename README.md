@@ -22,7 +22,7 @@ The steps for this Challenge are divided into the following sections:
 
 The following video shows: Both KaseiCoin and KaseiCoin Crowdsale contracts compiled and deployed, buying tokens increases total supply and Wei raised, and a successful buy KAI token transaction.
 
-![Results Video](./results/buytokens.mp4)
+[Results Video](https://github.com/angie0920/Challenge21/blob/main/results/buytokens.mp4)
 
 
 This is a picture of the deployed and compiled contracts:
