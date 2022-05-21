@@ -14,13 +14,24 @@ The steps for this Challenge are divided into the following sections:
 
 2. Create the KaseiCoin Crowdsale Contract
 
-3. Create the KaseiCoin Deployer Contract
+3. Create the KaseiCoin Deployer Contract (this is included in the crowdsale solidity file)
 
 4. Deploy the Crowdsale to a Local Blockchain
 
 ### The Results
 
-The following video shows: Both KaseiCoin and KaseiCoin Crowdsale contracts deployed, buying tokens increases total supply and Wei raised, and a successful buy KAI token transaction.
+The following video shows: Both KaseiCoin and KaseiCoin Crowdsale contracts compiled and deployed, buying tokens increases total supply and Wei raised, and a successful buy KAI token transaction.
+
+![Results Video](./results/buytokens.mp4)
 
 
+This is a picture of the deployed and compiled contracts:
+![Contracts](./results/compiledeploy.png)
 
+This is the total supply and wei raised:
+![wei](./results/wei.png)
+![supply](./results/supply.png)
+
+
+## Conclusion:
+The KaseiCoin, Crowdsale, and deployer contracts were successfully deployed. The KaseiCrowdsale contract successfully buys tokens, increasing supply and wei raised.
